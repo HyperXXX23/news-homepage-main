@@ -23,6 +23,7 @@ body {
   font-family: "Inter", sans-serif;
   color: var(--very-dark-blue);
   min-width: 375px;
+  background-color: var(--off-white);
 
 }
 
@@ -102,6 +103,11 @@ img {
 
 .container nav ul a {
   text-decoration: none;
+  color: var(--very-dark-blue);
+}
+
+.container nav ul a:visited {
+  color: var(--very-dark-blue);
 }
 
 .fade {
