@@ -152,11 +152,12 @@ section .news p {
 
 section .news button {
   background-color: var(--soft-red);
-  padding: 17px 40px;
+  padding: 17px 30px;
   border-style: none;
   color: var(--off-white);
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 16px;
   letter-spacing: 4px;
   margin-bottom: 20px;
   cursor: pointer;
