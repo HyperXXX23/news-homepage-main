@@ -152,7 +152,7 @@ section .news p {
 
 section .news button {
   background-color: var(--soft-red);
-  padding: 17px 30px;
+  padding: 17px 10px;
   border-style: none;
   color: var(--off-white);
   text-transform: uppercase;
